@@ -1,12 +1,12 @@
 /**
  * @ Author: **Aailson Barbosa Ribeiro**
  * @ Create Time: 2020-03-27 15:57:49
- * @ Modified by: ribeiro@alailson.com.br
+ * @ Modified by: _@alailsonribeiro_
  * @ Modified time: 2020-03-27 20:28:47
  * @ Description: +info: [https://alailson.com.br/barbosa-ribeiro-about-sobre](https://alailson.com.br/barbosa-ribeiro-about-sobre)
 
 # Locales files with WORLD countries local sets(params) to use in multilingual apps.
-Arquivos locais com conjuntos locais (parâmetros) de países do MUNDO para usar em aplicativos multilíngues
+_**Arquivos locais com conjuntos locais (parâmetros) de países do MUNDO para usar em aplicativos multilíngues_**
 ### Multi Lingual locales json files.
 
 The files is in directory estructure like:
