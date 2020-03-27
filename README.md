@@ -7,7 +7,7 @@
 
 # JSON Locales files with WORLD countries local sets(params) to use in multilingual apps.
 _(JSON Arquivos locais com conjuntos locais (parâmetros) de países do MUNDO para usar em aplicativos multilíngues)_
-### Multi Lingual locales json files.
+### Multilingual locales JSON files.
 
 The files is in directory estructure like:
 _(Os arquivos estão na estrutura de diretórios como:)_
