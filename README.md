@@ -1,22 +1,25 @@
 /**
  * @ Author: **Aailson Barbosa Ribeiro**
  * @ Create Time: 2020-03-27 15:57:49
- * @ Modified by: _@alailsonribeiro_
- * @ Modified time: 2020-03-27 20:28:47
+ * @ Modified by: ribeiro@alailson.com.br
+ * @ Modified time: 2020-03-27 20:39:30
  * @ Description: +info: [https://alailson.com.br/barbosa-ribeiro-about-sobre](https://alailson.com.br/barbosa-ribeiro-about-sobre)
 
-# Locales files with WORLD countries local sets(params) to use in multilingual apps.
-_**Arquivos locais com conjuntos locais (parâmetros) de países do MUNDO para usar em aplicativos multilíngues_**
+# JSON Locales files with WORLD countries local sets(params) to use in multilingual apps.
+_(JSON Arquivos locais com conjuntos locais (parâmetros) de países do MUNDO para usar em aplicativos multilíngues)_
 ### Multi Lingual locales json files.
 
 The files is in directory estructure like:
+_(Os arquivos estão na estrutura de diretórios como:)_
 
 ```
 ./locales/<langcode>/<countrycode>/[localcode]/lang.json
 ```
 
-## Exemplo 
+## Example / Exemplo 
 to pt_BR or pt-BR iso locate in:
+_(para pt_BR ou pt-BR iso, localize em:)_
+
 ```
 ./locales/pt/BR/lang.json
 ```
@@ -65,6 +68,7 @@ to pt_BR or pt-BR iso locate in:
 
 ```
 ## See after editing with include your translations:
+_(Veja após a edição incluir suas traduções:)_
 
 ```
 {
