@@ -2,7 +2,7 @@
  * @ Author: Aailson Barbosa Ribeiro
  * @ Create Time: 2020-03-27 15:57:49
  * @ Modified by: ribeiro@alailson.com.br
- * @ Modified time: 2020-03-27 18:59:44
+ * @ Modified time: 2020-03-27 19:02:03
  * @ Description: +info: https://alailson.com.br/barbosa-ribeiro-about-sobre
  */
 # Locales files with WORLD coutries local sets(params) to use in multilingual apps.
@@ -57,15 +57,12 @@ to pt_BR or pt-BR iso locate in:
       "area_km2": "8511965",
       "geo_name": "BRA"
    },
-**
 
-   "To translate include lines like these in this file in your language": "",
-   "in english here": "em seu idioma aqui",
-~~
-   "": "",
-~~
-**
-   "Country Brazil": "País Brasil"
+   **"To translate include lines like these in this file in your language": "",
+   "in english here": "em seu idioma aqui",**
+
+   ~~"": "",~~
+   **"Country Brazil": "País Brasil"**
 }
 ```
 ##See after editing with inlude new translation:
@@ -108,14 +105,14 @@ to pt_BR or pt-BR iso locate in:
    },
    "To translate include lines like these in this file in your language": "",
    "in english here": "em seu idioma aqui",
-__
-   "Asia": "Ásia",
+   
+   __"Asia": "Ásia",
    "Europe": "Europa",
    "North America": "América do Norte",
    "Africa": "África",
    "Oceania": "Oceania",
-   "South America": "América do Sul",
-__
+   "South America": "América do Sul",__
+
    "Country Brazil": "País Brasil"
 }
 ```
