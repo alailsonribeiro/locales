@@ -27,7 +27,7 @@ _(para pt_BR ou pt-BR iso, localize em:)_
 
 ```
 {
-   "Author of this method": "Alailson Barbosa Ribeiro <ribeiro@alailson.com.br> (c)2020",
+   "Author of this method": "Alailson Barbosa Ribeiro <@alailsonribeiro> (c)2020",
    "Arabic": "عربى",
    "ar": "عربى",
    "LocalSets": {
@@ -72,7 +72,7 @@ _(Veja após a edição incluir suas traduções:)_
 
 ```
 {
-   "Author of this method": "Alailson Barbosa Ribeiro <ribeiro@alailson.com.br> (c)2020",
+   "Author of this method": "Alailson Barbosa Ribeiro <alailsonribeiro> (c)2020",
    "Portuguese (Brazil)": "Português (Brasil)",
    "pt_BR": "Português (Brasil)",
    "pt-BR": "Português (Brasil)",
