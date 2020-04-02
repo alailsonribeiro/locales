@@ -2,11 +2,11 @@
  * @ Author: **Aailson Barbosa Ribeiro**
  * @ Create Time: 2020-03-27 15:57:49
  * @ Modified by: ribeiro@alailson.com.br
- * @ Modified time: 2020-04-02 16:00:57
+ * @ Modified time: 2020-04-02 16:03:19
 ```
  * @ Description: +info: [https://alailson.com.br/barbosa-ribeiro-about-sobre](https://alailson.com.br/barbosa-ribeiro-about-sobre)
  * @ Inspiration in: [https://gist.github.com/ksol/62b489572944ca70b4ba](https://gist.github.com/ksol/62b489572944ca70b4ba)
- * @ Thanks to: @trainline-eu [Ksol](https://gist.github.com/ksol)
+ * @ Thanks to: @trainline-eu [Ksol](https://github.com/ksol)
 
 **Use in JS**
 ```
