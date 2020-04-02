@@ -6,6 +6,6 @@
  * @ Description: +info: https://alailson.com.br/barbosa-ribeiro-about-sobre
  */
 
-const language = require('./language_detect')
+const language = require('./language/detect')
 
 console.log(language())
