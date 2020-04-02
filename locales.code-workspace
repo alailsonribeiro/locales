@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "/Users/alailsonribeiro/spinning.house/apps/src/js/locale"
 		}
 	],
 	"settings": {}
