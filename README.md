@@ -2,7 +2,7 @@
  * @ Author: **Aailson Barbosa Ribeiro**
  * @ Create Time: 2020-03-27 15:57:49
  * @ Modified by: ribeiro@alailson.com.br
- * @ Modified time: 2020-04-04 12:10:01
+ * @ Modified time: 2020-04-04 12:12:38
  ```
 +info: [https://alailson.com.br/barbosa-ribeiro-about-sobre](https://alailson.com.br/barbosa-ribeiro-about-sobre)
 
@@ -12,8 +12,8 @@
 _(JSON Arquivos locais com valores constantes de locais (parâmetros) de países do MUNDO para usar em aplicativos multilíngues)_
 ## Multilingual locales JSON files.
 
-The files include the existing SVG / Base64 flags to use directly in **<img src=**
-_(Os arquivos incluem as bandeiras existentes em SVG/Base64 para usar direto no **<img src=** )_
+The files include the existing **svg/base64** flags to use directly in **<img src=**
+_(Os arquivos incluem as bandeiras existentes em **svg/base64** para usar direto no **<img src=** )_
 
 ## Sample JSON
 The files is in tow directories **code** and **ietf** name format like:
