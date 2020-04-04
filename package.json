@@ -1,7 +1,7 @@
 {
   "name": "@alailsonribeiro/locales",
-  "version": "1.0.1",
-  "description": "Locales Json Files in estrutural directories to use by Applications",
+  "version": "1.0.2",
+  "description": "Multilingual locales JSON files with WORLD countries with constant local sets(params) to use in multilingual apps",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
