@@ -1,0 +1,48 @@
+{
+   "_id": {
+      "$oid": "5cd9fe8308053b28c903785f"
+   },
+   "code": "ar_KM",
+   "ietf": "ar-KM",
+   "name": "Arabic (Comoros)",
+   "language_name": "",
+   "language_code": null,
+   "language_flag": "km",
+   "iso": "KM",
+   "iso3": "COM",
+   "country": "COMOROS",
+   "country_code": "174",
+   "country_name": "Comoros",
+   "countries_translation": "{\"AD\":\"Andorra\",\"AE\":\"United Arab Emirates\",\"AF\":\"Afghanistan\",\"AG\":\"Antigua and Barbuda\",\"AI\":\"Anguilla\",\"AL\":\"Albania\",\"AM\":\"Armenia\",\"AO\":\"Angola\",\"AR\":\"Argentina\",\"AS\":\"American Samoa\",\"AT\":\"Austria\",\"AU\":\"Australia\",\"AW\":\"Aruba\",\"AZ\":\"Azerbaijan\",\"BA\":\"Bosnia and Herzegovina\",\"BB\":\"Barbados\",\"BD\":\"Bangladesh\",\"BE\":\"Belgium\",\"BF\":\"Burkina Faso\",\"BG\":\"Bulgaria\",\"BH\":\"Bahrain\",\"BI\":\"Burundi\",\"BJ\":\"Benin\",\"BM\":\"Bermuda\",\"BN\":\"Brunei Darussalam\",\"BO\":\"Bolivia\",\"BR\":\"Brasil\",\"BS\":\"Bahamas\",\"BT\":\"Bhutan\",\"BW\":\"Botswana\",\"BY\":\"Belarus\",\"BZ\":\"Belize\",\"CA\":\"Canada\",\"CC\":\"Cocos (Keeling) Islands\",\"CD\":\"Congo, the Democratic Republic of the\",\"CF\":\"Central African Republic\",\"CG\":\"Congo\",\"CH\":\"Switzerland\",\"CI\":\"Cote D'Ivoire\",\"CK\":\"Cook Islands\",\"CL\":\"Chile\",\"CM\":\"Cameroon\",\"CN\":\"China\",\"CO\":\"Colombia\",\"CR\":\"Costa Rica\",\"CU\":\"Cuba\",\"CV\":\"Cape Verde\",\"CX\":\"Christmas Island\",\"CY\":\"Cyprus\",\"CZ\":\"Czech Republic\",\"DE\":\"Germany\",\"DJ\":\"Djibouti\",\"DK\":\"Denmark\",\"DM\":\"Dominica\",\"DO\":\"Dominican Republic\",\"DZ\":\"Algeria\",\"EC\":\"Ecuador\",\"EE\":\"Estonia\",\"EG\":\"Egypt\",\"EH\":\"Western Sahara\",\"EN\":\"Global\",\"ER\":\"Eritrea\",\"ES\":\"Spain\",\"ET\":\"Ethiopia\",\"FI\":\"Finland\",\"FJ\":\"Fiji\",\"FK\":\"Falkland Islands (Malvinas)\",\"FM\":\"Micronesia, Federated States of\",\"FO\":\"Faroe Islands\",\"FR\":\"France\",\"GA\":\"Gabon\",\"GB\":\"United Kingdom\",\"GD\":\"Grenada\",\"GE\":\"Georgia\",\"GF\":\"French Guiana\",\"GH\":\"Ghana\",\"GI\":\"Gibraltar\",\"GL\":\"Greenland\",\"GM\":\"Gambia\",\"GN\":\"Guinea\",\"GP\":\"Guadeloupe\",\"GQ\":\"Equatorial Guinea\",\"GR\":\"Greece\",\"GT\":\"Guatemala\",\"GU\":\"Guam\",\"GW\":\"Guinea-Bissau\",\"GY\":\"Guyana\",\"HK\":\"Hong Kong\",\"HN\":\"Honduras\",\"HR\":\"Croatia\",\"HT\":\"Haiti\",\"HU\":\"Hungary\",\"ID\":\"Indonesia\",\"IE\":\"Ireland\",\"IL\":\"Israel\",\"IN\":\"India\",\"IO\":\"British Indian Ocean Territory\",\"IQ\":\"Iraq\",\"IR\":\"Iran, Islamic Republic of\",\"IS\":\"Iceland\",\"IT\":\"Italy\",\"JM\":\"Jamaica\",\"JO\":\"Jordan\",\"JP\":\"Japan\",\"KE\":\"Kenya\",\"KG\":\"Kyrgyzstan\",\"KH\":\"Cambodia\",\"KI\":\"Kiribati\",\"KM\":\"Comoros\",\"KN\":\"Saint Kitts and Nevis\",\"KP\":\"Korea, Democratic People's Republic of\",\"KR\":\"Korea, Republic of\",\"KW\":\"Kuwait\",\"KY\":\"Cayman Islands\",\"KZ\":\"Kazakhstan\",\"LA\":\"Lao People's Democratic Republic\",\"LB\":\"Lebanon\",\"LC\":\"Saint Lucia\",\"LI\":\"Liechtenstein\",\"LK\":\"Sri Lanka\",\"LR\":\"Liberia\",\"LS\":\"Lesotho\",\"LT\":\"Lithuania\",\"LU\":\"Luxembourg\",\"LV\":\"Latvia\",\"LY\":\"Libyan Arab Jamahiriya\",\"MA\":\"Morocco\",\"MC\":\"Monaco\",\"MD\":\"Moldova, Republic of\",\"MG\":\"Madagascar\",\"MH\":\"Marshall Islands\",\"MK\":\"Macedonia, the Former Yugoslav Republic of\",\"ML\":\"Mali\",\"MM\":\"Myanmar\",\"MN\":\"Mongolia\",\"MO\":\"Macao\",\"MP\":\"Northern Mariana Islands\",\"MQ\":\"Martinique\",\"MR\":\"Mauritania\",\"MS\":\"Montserrat\",\"MT\":\"Malta\",\"MU\":\"Mauritius\",\"MW\":\"Malawi\",\"MX\":\"Mexico\",\"MY\":\"Malaysia\",\"MZ\":\"Mozambique\",\"NA\":\"Namibia\",\"NC\":\"New Caledonia\",\"NE\":\"Niger\",\"NF\":\"Norfolk Island\",\"NG\":\"Nigeria\",\"NI\":\"Nicaragua\",\"NL\":\"Netherlands\",\"NO\":\"Norway\",\"NP\":\"Nepal\",\"NR\":\"Nauru\",\"NU\":\"Niue\",\"NZ\":\"New Zealand\",\"OM\":\"Oman\",\"PA\":\"Panama\",\"PE\":\"Peru\",\"PF\":\"French Polynesia\",\"PG\":\"Papua New Guinea\",\"PH\":\"Philippines\",\"PK\":\"Pakistan\",\"PL\":\"Poland\",\"PM\":\"Saint Pierre and Miquelon\",\"PN\":\"Pitcairn\",\"PR\":\"Puerto Rico\",\"PS\":\"Palestinian Territory, Occupied\",\"PT\":\"Portugal\",\"PW\":\"Palau\",\"PY\":\"Paraguay\",\"QA\":\"Qatar\",\"RE\":\"Reunion\",\"RO\":\"Romania\",\"RU\":\"Russian Federation\",\"RW\":\"Rwanda\",\"SA\":\"Saudi Arabia\",\"SB\":\"Solomon Islands\",\"SC\":\"Seychelles\",\"SD\":\"Sudan\",\"SE\":\"Sweden\",\"SG\":\"Singapore\",\"SH\":\"Saint Helena\",\"SI\":\"Slovenia\",\"SJ\":\"Svalbard and Jan Mayen\",\"SK\":\"Slovakia\",\"SL\":\"Sierra Leone\",\"SM\":\"San Marino\",\"SN\":\"Senegal\",\"SO\":\"Somalia\",\"SR\":\"Suriname\",\"ST\":\"Sao Tome and Principe\",\"SV\":\"El Salvador\",\"SY\":\"Syrian Arab Republic\",\"SZ\":\"Swaziland\",\"TC\":\"Turks and Caicos Islands\",\"TD\":\"Chad\",\"TG\":\"Togo\",\"TH\":\"Thailand\",\"TK\":\"Tokelau\",\"TL\":\"Timor-Leste\",\"TN\":\"Tunisia\",\"TO\":\"Tonga\",\"TR\":\"Turkey\",\"TT\":\"Trinidad and Tobago\",\"TV\":\"Tuvalu\",\"TW\":\"Taiwan, Province of China\",\"TZ\":\"Tanzania, United Republic of\",\"UA\":\"Ukraine\",\"UG\":\"Uganda\",\"UM\":\"United States Minor Outlying Islands\",\"US\":\"United States\",\"UY\":\"Uruguay\",\"UZ\":\"Uzbekistan\",\"VC\":\"Saint Vincent and the Grenadines\",\"VE\":\"Venezuela\",\"VG\":\"Virgin Islands, British\",\"VI\":\"Virgin Islands, U.s.\",\"VN\":\"Viet Nam\",\"VU\":\"Vanuatu\",\"WF\":\"Wallis and Futuna\",\"WS\":\"Samoa\",\"YE\":\"Yemen\",\"YT\":\"Mayotte\",\"ZA\":\"South Africa\",\"ZM\":\"Zambia\",\"ZW\":\"Zimbabwe\"}",
+   "languages": "ar,fr-KM",
+   "is_eu": {
+      "$numberInt": "0"
+   },
+   "phone_code": {
+      "$numberInt": "269"
+   },
+   "currency": "",
+   "currency_code": "KMF",
+   "currency_symbol": "",
+   "population": {
+      "$numberInt": "773407"
+   },
+   "fips_code": "CN",
+   "north": "-11.362381",
+   "south": "-12.387857",
+   "east": "44.538223",
+   "west": "43.21579",
+   "capital": "Moroni",
+   "timezone_json": "{\"Indian\\/Comoro\":{\"country_code\":\"KM\",\"latitude\":-11.683340000000001,\"longitude\":43.26666,\"comments\":\"Comoro, Indian\",\"name\":\"Indian\\/Comoro\"}}",
+   "continent": "AF",
+   "continent_name": "Africa",
+   "continents_translation": "{\"AF\":\"Africa\",\"AS\":\"Asia\",\"EU\":\"Europe\",\"NA\":\"North America\",\"OC\":\"Oceania\",\"SA\":\"South America\"}\r\n",
+   "area_km2": {
+      "$numberInt": "2170"
+   },
+   "geo_name": "COM",
+   "terms_and_conditions": null,
+   "privacy_policy": null,
+   "flag1x1": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWttIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PGRlZnM+PGNsaXBQYXRoIGlkPSJhIj48cGF0aCBmaWxsLW9wYWNpdHk9Ii43IiBkPSJNMCAwaDQxNi4zdjQxNi4zSDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PGcgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXBhdGg9InVybCgjYSkiIHRyYW5zZm9ybT0ic2NhbGUoMS4yMykiPjxwYXRoIGZpbGw9IiNmZjAiIGQ9Ik0wIDBoNjI1djEwNEgweiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDEwNGg2MjV2MTA0LjFIMHoiLz48cGF0aCBmaWxsPSIjYmUwMDI3IiBkPSJNMCAyMDguMWg2MjV2MTA0SDB6Ii8+PHBhdGggZmlsbD0iIzNiNWFhMyIgZD0iTTAgMzEyLjJoNjI1djEwNEgweiIvPjxwYXRoIGZpbGw9IiMyMzllNDYiIGQ9Ik0wIDB2NDE2LjJsMzEwLjQtMjA3LjVMMCAweiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMjcuOCAxMTVjLTY5LjItMy41LTEwMC43IDUxLjYtMTAwLjYgOTQuMi0uMiA1MC40IDQ3LjYgOTIgOTEuNyA4OS40QTEwMCAxMDAgMCAwMTY1LjggMjA5YTk4LjMgOTguMyAwIDAxNjItOTR6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyNi44IDE2MC4ybC05LjgtNy42LTExLjggMy43IDQuMi0xMS42LTcuMS0xMC4xIDEyLjMuNCA3LjQtMTAgMy40IDEyIDExLjggMy45LTEwLjMgN3ptLS4yIDQyLjNsLTkuOC03LjYtMTEuOCAzLjcgNC4yLTExLjYtNy4yLTEwLjEgMTIuNC40IDcuNC0xMCAzLjQgMTIgMTEuOCA0LTEwLjMgNi45em0uMiA0Mi44bC05LjgtNy42LTExLjggMy43IDQuMi0xMS43LTcuMS0xMCAxMi4zLjQgNy40LTEwIDMuNCAxMiAxMS44IDMuOS0xMC4zIDYuOXptLS4yIDQzLjFsLTkuOC03LjYtMTEuOCAzLjcgNC4yLTExLjYtNy4yLTEwLjEgMTIuNC40IDcuNC0xMCAzLjQgMTIgMTEuOCA0LTEwLjMgNi45eiIvPjwvZz48L3N2Zz4=",
+   "flag4x3": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWttIiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+PGRlZnM+PGNsaXBQYXRoIGlkPSJrbS1hIj48cGF0aCBmaWxsLW9wYWNpdHk9Ii43IiBkPSJNMCAwaDY4Mi43djUxMkgweiIvPjwvY2xpcFBhdGg+PC9kZWZzPjxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1wYXRoPSJ1cmwoI2ttLWEpIiB0cmFuc2Zvcm09InNjYWxlKC45Mzc1KSI+PHBhdGggZmlsbD0iI2ZmMCIgZD0iTTAgMGg3NjguOHYxMjhIMHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAxMjhoNzY4Ljh2MTI4SDB6Ii8+PHBhdGggZmlsbD0iI2JlMDAyNyIgZD0iTTAgMjU2aDc2OC44djEyOEgweiIvPjxwYXRoIGZpbGw9IiMzYjVhYTMiIGQ9Ik0wIDM4NGg3NjguOHYxMjhIMHoiLz48cGF0aCBmaWxsPSIjMjM5ZTQ2IiBkPSJNMCAwdjUxMmwzODEuOS0yNTUuM0wwIDB6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1Ny4yIDE0MS40Yy04NS00LjMtMTIzLjkgNjMuNS0xMjMuOCAxMTUuOS0uMiA2MiA1OC42IDExMyAxMTIuOCAxMTBDMTE3IDM1My41IDgxLjIgMzE0LjYgODEgMjU3Yy0uMy01Mi4xIDI5LjUtOTcuNSA3Ni4zLTExNS42eiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xNTYgMTk3bC0xMi05LjMtMTQuNiA0LjYgNS4yLTE0LjQtOC44LTEyLjQgMTUuMi42IDktMTIuMyA0LjMgMTQuNyAxNC40IDQuOC0xMi42IDguNXptLS4zIDUyLjFsLTEyLTkuNC0xNC42IDQuNiA1LjMtMTQuMy04LjktMTIuNCAxNS4zLjUgOS0xMi4yIDQuMiAxNC42IDE0LjUgNC45LTEyLjcgOC41em0uMiA1Mi42bC0xMi05LjQtMTQuNSA0LjYgNS4yLTE0LjMtOC44LTEyLjQgMTUuMi41IDktMTIuMiA0LjMgMTQuNiAxNC40IDQuOC0xMi42IDguNnptLS4yIDUzbC0xMi05LjNMMTI5IDM1MGw1LjMtMTQuNC04LjktMTIuNCAxNS4zLjYgOS0xMi4zIDQuMiAxNC43IDE0LjUgNC44LTEyLjcgOC41eiIvPjwvZz48L3N2Zz4="
+}
