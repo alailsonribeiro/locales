@@ -1,6 +1,6 @@
 {
   "name": "@alailsonribeiro/locales",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Multilingual locales JSON files with WORLD countries with constant local sets(params) to use in multilingual apps",
   "main": "index.js",
   "scripts": {

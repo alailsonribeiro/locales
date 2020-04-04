@@ -2,11 +2,11 @@
  * @ Author: **Aailson Barbosa Ribeiro**
  * @ Create Time: 2020-03-27 15:57:49
  * @ Modified by: ribeiro@alailson.com.br
- * @ Modified time: 2020-04-04 13:06:06
+ * @ Modified time: 2020-04-04 13:24:40
  ```
 +info: [https://alailson.com.br/barbosa-ribeiro-about-sobre](https://alailson.com.br/barbosa-ribeiro-about-sobre)
 
-## Locales 1.0.1
+## Locales 1.0.3
 
 ### JSON Locales files with WORLD countries with constant local sets(params) to use in multilingual apps.
 
